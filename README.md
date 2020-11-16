@@ -1,6 +1,6 @@
 # Movie_Recommendation_system
 
-Prediction of Movies to the users based on Collaborative and Content Based Recommended Systems. Code is generated using Google Colab. 
+Prediction of Movies to the users based on Collaborative and Content Based Recommended Systems. Code is generated in python on Google Colab. 
 
 Movie Recommendation System: Collaborative vs. Content Recommender Systems 
 
